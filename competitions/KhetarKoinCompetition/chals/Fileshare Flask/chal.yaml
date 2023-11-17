@@ -1,0 +1,12 @@
+- !fileshare_flask
+  name: Fileshare Flask
+  flag: flag{f1l3sh4r3}
+  config:
+    username: cyber
+    password: cyber
+    files:
+      - stuff.txt
+    chals:
+      - Docx Carving
+
+              

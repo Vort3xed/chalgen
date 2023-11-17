@@ -1,0 +1,6 @@
+- !caesar_cipher
+  name: CaesarCipher
+  flag: "flag{f0und_h15_pR0f1l3}"
+  config:
+    shift: 10
+    addl_text: "stanley's wallet is at /stanley"

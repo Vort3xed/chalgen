@@ -1,0 +1,30 @@
+{
+    "Fesbuc": {
+        "hash": "771a90856d2afa23d1706a571199a502e723bbb773172c0f51b8836e79f69783",
+        "container_id": "facebook-django-8783696553810",
+        "target_port": 8000,
+        "display": "https://laughing-bassoon-j967gpwpgqg3p77-8001.app.github.dev"
+    },
+    "Base64": {
+        "hash": "1f7e2a60dcafd16295b14d2b02b428982bfb53a6fe3b30ed98139beec17193ae",
+        "display": "dXNlcm5hbWU9J2N5YmVyJyBwYXNzd29yZD0nY3liZXInCmZsYWd7YkE1ZV9zMXh0WV9mNHVyfQ=="
+    },
+    "CaesarCipher": {
+        "hash": "c4dc8837c319ac03bd5696c1040baa70f7ac60e3e3df49c0ae47e9f559784bd0",
+        "display": "cdkxvoi'c gkvvod sc kd /cdkxvoi pvkq{p0exn_r15_zb0p1v3}"
+    },
+    "Fileshare Flask": {
+        "hash": "9aab547d28b0cd5a2f2db3f335d81d7af932726bb37e9b1e96d04f91a0b9ea58",
+        "container_id": "fileshare-flask-8747615488049",
+        "target_port": 8000,
+        "display": "https://laughing-bassoon-j967gpwpgqg3p77-8002.app.github.dev"
+    },
+    "Docx Carving": {
+        "hash": "dff57c9e48b370eba4cfc6ed7da19ee1fd93c2da29f78419934dac71c549559a",
+        "chal_file": "cyberanswers.docx"
+    },
+    "display_ports": [
+        8001,
+        8002
+    ]
+}

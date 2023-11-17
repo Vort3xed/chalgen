@@ -1,0 +1,8 @@
+ - !docx_carving
+    name: Docx Carving
+    flag: "flag{recipe_for_success}"
+    config:
+      hidden_file: flag.txt
+      main_file: answers.docx
+      out_file: cyberanswers.docx
+      dest_path: word/

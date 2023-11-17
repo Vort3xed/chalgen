@@ -1,0 +1,223 @@
+- fields:
+    username: stanley
+    password: pbkdf2_sha256$12000$AAAAAAAAA$ng1HiV3XyTOmcMk8SB0Lie5tK8IHN813hsbOBI2Drd0=
+  model: auth.user
+  pk: 0
+- fields:
+    username: ishan
+    password: pbkdf2_sha256$12000$AAAAAAAAA$FJlY6cWwQi79dordvpvRc/3GzUA/DJpfk50qyQggUz0=
+  model: auth.user
+  pk: 1
+- fields:
+    username: caesar
+    password: pbkdf2_sha256$12000$AAAAAAAAA$FJlY6cWwQi79dordvpvRc/3GzUA/DJpfk50qyQggUz0=
+  model: auth.user
+  pk: 2
+- fields:
+    username: polly
+    password: pbkdf2_sha256$12000$AAAAAAAAA$FJlY6cWwQi79dordvpvRc/3GzUA/DJpfk50qyQggUz0=
+  model: auth.user
+  pk: 3
+- fields:
+    username: anna
+    password: pbkdf2_sha256$12000$AAAAAAAAA$FJlY6cWwQi79dordvpvRc/3GzUA/DJpfk50qyQggUz0=
+  model: auth.user
+  pk: 4
+- fields:
+    username: PollySecretAccount
+    password: pbkdf2_sha256$12000$AAAAAAAAA$FJlY6cWwQi79dordvpvRc/3GzUA/DJpfk50qyQggUz0=
+  model: auth.user
+  pk: 5
+- fields:
+    username: calvin
+    password: pbkdf2_sha256$12000$AAAAAAAAA$FJlY6cWwQi79dordvpvRc/3GzUA/DJpfk50qyQggUz0=
+  model: auth.user
+  pk: 6
+- fields:
+    username: benjamin
+    password: pbkdf2_sha256$12000$AAAAAAAAA$FJlY6cWwQi79dordvpvRc/3GzUA/DJpfk50qyQggUz0=
+  model: auth.user
+  pk: 7
+- fields:
+    username: mark
+    password: pbkdf2_sha256$12000$AAAAAAAAA$FJlY6cWwQi79dordvpvRc/3GzUA/DJpfk50qyQggUz0=
+  model: auth.user
+  pk: 8
+- fields:
+    username: BenjaminSecretAccount
+    password: pbkdf2_sha256$12000$AAAAAAAAA$FJlY6cWwQi79dordvpvRc/3GzUA/DJpfk50qyQggUz0=
+  model: auth.user
+  pk: 9
+- fields:
+    username: hannah
+    password: pbkdf2_sha256$12000$AAAAAAAAA$FJlY6cWwQi79dordvpvRc/3GzUA/DJpfk50qyQggUz0=
+  model: auth.user
+  pk: 10
+- fields:
+    text: i just dropped @KhetarKoin pls invest!!!!
+    author: 1
+    likers:
+    - 2
+    date_added: '2020-03-06 00:00:00+00:00'
+  model: fb.userpost
+  pk: 0
+- fields:
+    text: i just bought some @KhetarKoin but I haven’t made any money yet why u scamming
+      me bruh
+    author: 2
+    likers:
+    - 2
+    date_added: '2020-03-06 00:00:00+00:00'
+  model: fb.userpost
+  pk: 1
+- fields:
+    text: wow! Check out my crypto portfolio! i’m rolling in cash! i cant wait to
+      start investing in KhetarKoin. https://directorychallenge.onrender.com
+    author: 0
+    likers:
+    - 10
+    date_added: '2020-03-06 00:00:00+00:00'
+  model: fb.userpost
+  pk: 2
+- fields:
+    text: two boys asked me out to hoco 💗💗💗 who should I choose
+    author: 5
+    date_added: '2020-03-06 00:00:00+00:00'
+  model: fb.userpost
+  pk: 3
+- fields:
+    text: just asked my crush to hoco, she said she’s thinking about it, kinda nervous
+      😬
+    author: 6
+    date_added: '2020-03-06 00:00:00+00:00'
+  model: fb.userpost
+  pk: 4
+- fields:
+    text: I started doing crypto and I’m already making bank!
+    author: 10
+    date_added: '2020-03-06 00:00:00+00:00'
+  model: fb.userpost
+  pk: 5
+- fields:
+    text: does anyone have the cyber homework I’m kinda lost... 😭
+    author: 7
+    date_added: '2020-03-06 00:00:00+00:00'
+  model: fb.userpost
+  pk: 6
+- fields:
+    text: does anyone have cyber answers 🙏
+    author: 9
+    date_added: '2020-03-06 00:00:00+00:00'
+  model: fb.userpost
+  pk: 7
+- fields:
+    text: GUYS I HAD 1.27E30 DOLLARS WORTH OF KHETARKOIN AND SOMEONE JUST STOLE IT
+    author: 6
+    date_added: '2020-03-06 00:00:00+00:00'
+  model: fb.userpost
+  pk: 8
+- fields:
+    author: 10
+    date_added: 2020-01-21 00:00:00+00:00
+    post: 2
+    text: no way, im tryna learn can you teach me?? 🙏🙏
+  model: fb.userpostcomment
+  pk: 0
+- fields:
+    author: 3
+    date_added: 2020-01-21 00:00:00+00:00
+    post: 2
+    text: 🔥🔥🔥
+  model: fb.userpostcomment
+  pk: 1
+- fields:
+    author: 2
+    date_added: 2020-01-21 00:00:00+00:00
+    post: 2
+    text: bruh I put you on, how do u have more money than me 😡
+  model: fb.userpostcomment
+  pk: 2
+- fields:
+    author: 6
+    date_added: 2020-01-21 00:00:00+00:00
+    post: 2
+    text: nobody is tryna teach u hannah 💀
+  model: fb.userpostcomment
+  pk: 3
+- fields:
+    author: 0
+    date_added: 2020-01-21 00:00:00+00:00
+    post: 3
+    text: bruh, yk I can see this right 😭 cdkxvoi'c gkvvod sc kd /cdkxvoi pvkq{p0exn_r15_zb0p1v3}
+  model: fb.userpostcomment
+  pk: 4
+- fields:
+    author: 7
+    date_added: 2020-01-21 00:00:00+00:00
+    post: 4
+    text: good luck bro 💪💪
+  model: fb.userpostcomment
+  pk: 5
+- fields:
+    author: 3
+    date_added: 2020-01-21 00:00:00+00:00
+    post: 5
+    text: dang! I wanna start making cash!
+  model: fb.userpostcomment
+  pk: 6
+- fields:
+    author: 6
+    date_added: 2020-01-21 00:00:00+00:00
+    post: 5
+    text: lemme see your wallet I can calculate your cash
+  model: fb.userpostcomment
+  pk: 7
+- fields:
+    author: 8
+    date_added: 2020-01-21 00:00:00+00:00
+    post: 6
+    text: Are you serious Ben, you could’ve at least posted this on your secret account.
+  model: fb.userpostcomment
+  pk: 8
+- fields:
+    author: 6
+    date_added: 2020-01-21 00:00:00+00:00
+    post: 7
+    text: bruh he already caught you lackin 💀 dXNlcm5hbWU9J2N5YmVyJyBwYXNzd29yZD0nY3liZXInCmZsYWd7YkE1ZV9zMXh0WV9mNHVyfQ==
+  model: fb.userpostcomment
+  pk: 9
+- fields:
+    author: 6
+    date_added: 2020-01-21 00:00:00+00:00
+    post: 7
+    text: 🤫 dont tell anyone about this! https://laughing-bassoon-j967gpwpgqg3p77-8002.app.github.dev
+  model: fb.userpostcomment
+  pk: 10
+- fields:
+    author: 7
+    date_added: 2020-01-21 00:00:00+00:00
+    post: 8
+    text: tragic
+  model: fb.userpostcomment
+  pk: 11
+- fields:
+    author: 3
+    date_added: 2020-01-21 00:00:00+00:00
+    post: 8
+    text: i was gonna ask you out to hoco but u just lost all ur money soooo...
+  model: fb.userpostcomment
+  pk: 12
+- fields:
+    author: 7
+    date_added: 2020-01-21 00:00:00+00:00
+    post: 8
+    text: womp womp
+  model: fb.userpostcomment
+  pk: 13
+- fields:
+    author: 7
+    date_added: 2020-01-21 00:00:00+00:00
+    post: 8
+    text: wait where on earth did u get so much money
+  model: fb.userpostcomment
+  pk: 14

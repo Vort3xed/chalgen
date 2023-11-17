@@ -1,0 +1,119 @@
+- !facebook_django
+  name: Fesbuc
+  flag: "flag{facebook_is_a_great_way_to_talk}"
+  config:
+    script: index.js
+    users:
+      - username: stanley
+        password: iluvpolly
+      - username: ishan
+        password: password138823892389127120password
+      - username: caesar
+        password: password138823892389127120password
+      - username: polly
+        password: password138823892389127120password
+      - username: anna
+        password: password138823892389127120password
+      - username: PollySecretAccount
+        password: password138823892389127120password
+      - username: calvin
+        password: password138823892389127120password
+      - username: benjamin
+        password: password138823892389127120password
+      - username: mark
+        password: password138823892389127120password
+      - username: BenjaminSecretAccount
+        password: password138823892389127120password
+      - username: hannah
+        password: password138823892389127120password
+    posts:
+      - text: "i just dropped @KhetarKoin pls invest!!!!"
+        author: ishan
+        likers: [caesar]
+      - text: "i just bought some @KhetarKoin but I haven’t made any money yet why u scamming me bruh"
+        author: caesar
+        likers: [caesar]
+      - text: "wow! Check out my crypto portfolio! i’m rolling in cash! i cant wait to start investing in KhetarKoin. https://directorychallenge.onrender.com"
+        author: stanley
+        likers: [hannah]
+      - text: "two boys asked me out to hoco 💗💗💗 who should I choose"
+        author: PollySecretAccount
+      - text: "just asked my crush to hoco, she said she’s thinking about it, kinda nervous 😬"
+        author: calvin
+      - text: "I started doing crypto and I’m already making bank!"
+        author: hannah
+      - text: "does anyone have the cyber homework I’m kinda lost... 😭"
+        author: benjamin
+      - text: "does anyone have cyber answers 🙏"
+        author: BenjaminSecretAccount
+      - text: "GUYS I HAD 1.27E30 DOLLARS WORTH OF KHETARKOIN AND SOMEONE JUST STOLE IT"
+        author: calvin
+    profiles:
+    comments:
+      - author: hannah
+        date_added: 2020-01-21 00:00:00.000000+00:00
+        post: 2
+        text: no way, im tryna learn can you teach me?? 🙏🙏
+      - author: polly
+        date_added: 2020-01-21 00:00:00.000000+00:00
+        post: 2
+        text: 🔥🔥🔥
+      - author: caesar
+        date_added: 2020-01-21 00:00:00.000000+00:00
+        post: 2
+        text: bruh I put you on, how do u have more money than me 😡
+      - author: calvin
+        date_added: 2020-01-21 00:00:00.000000+00:00
+        post: 2
+        text: nobody is tryna teach u hannah 💀
+      - author: stanley
+        date_added: 2020-01-21 00:00:00.000000+00:00
+        post: 3
+        text: bruh, yk I can see this right 😭
+        chal: CaesarCipher
+      - author: benjamin
+        date_added: 2020-01-21 00:00:00.000000+00:00
+        post: 4
+        text: good luck bro 💪💪
+      - author: polly
+        date_added: 2020-01-21 00:00:00.000000+00:00
+        post: 5
+        text: dang! I wanna start making cash!
+      - author: calvin
+        date_added: 2020-01-21 00:00:00.000000+00:00
+        post: 5
+        text: lemme see your wallet I can calculate your cash
+      - author: mark
+        date_added: 2020-01-21 00:00:00.000000+00:00
+        post: 6
+        text: Are you serious Ben, you could’ve at least posted this on your secret account.
+      - author: calvin
+        date_added: 2020-01-21 00:00:00.000000+00:00
+        post: 7
+        text: bruh he already caught you lackin 💀
+        chal: Base64
+      - author: calvin
+        date_added: 2020-01-21 00:00:00.000000+00:00
+        post: 7
+        text: 🤫 dont tell anyone about this!
+        chal: Fileshare Flask
+      - author: benjamin
+        date_added: 2020-01-21 00:00:00.000000+00:00
+        post: 8
+        text: tragic
+      - author: polly
+        date_added: 2020-01-21 00:00:00.000000+00:00
+        post: 8
+        text: i was gonna ask you out to hoco but u just lost all ur money soooo...
+      - author: benjamin
+        date_added: 2020-01-21 00:00:00.000000+00:00
+        post: 8
+        text: womp womp
+      - author: benjamin
+        date_added: 2020-01-21 00:00:00.000000+00:00
+        post: 8
+        text: wait where on earth did u get so much money
+    chals:
+      - Base64
+      - CaesarCipher
+      - Fileshare Flask
